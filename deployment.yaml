@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: tmdqls2068/goormpj:5
+      - image: tmdqls2068/goormpj:11
         name: flaskdemo
         resources: {}
 status: {}
